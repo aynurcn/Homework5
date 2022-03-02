@@ -1,0 +1,41 @@
+.Google{
+    width: 351;
+    height: 113;
+    text-align: center;
+}
+.table{
+    text-align: center;
+}
+.table-alt{
+    border: 0;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+}
+.td{
+    background-color: "#EEEEE"
+}
+.td-linkone{
+    width: 37%;
+    background-color:#7EE5DA;
+}
+.td-linktwo{
+    background-color: #70CCC2;
+}
+.font-linktwo{
+    font-size: -1;
+}
+.td-linkthree{
+   text-align: right;
+   background-color: #62B3AA;
+}
+.font-linkthree
+{
+    text-align: center;
+    font-size: -1;
+}
+.footer
+{
+    text-align: center;
+    font-size: -1;
+}
